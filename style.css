@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 40vh;
+    background-color: #ecbbc5;
+    display: flex;
+    flex-direction: column;
+   
+   /* X*/justify-content: center;
+   /*Y*/ align-items: center;
+}
